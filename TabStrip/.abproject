@@ -2,7 +2,7 @@
   "ProjectName": "TabStrip",
   "ProjectGuid": "a835fe1c-cd8e-41b5-92fe-bc5a405f78dc",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.TabStrip",
+  "AppIdentifier": "com",
   "DisplayName": "TabStrip",
   "Author": "",
   "Description": "TabStrip",
